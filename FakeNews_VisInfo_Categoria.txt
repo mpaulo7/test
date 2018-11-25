@@ -1,0 +1,7 @@
+Category	Number of samples	%
+Politics	4,180	58.0
+TV & celebrities	1,544	21.4
+Society & daily news	1,276	17.7
+Science & technology	112	1.5
+Economy	44	0.7
+Religion	44	0.7

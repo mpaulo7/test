@@ -1,0 +1,5 @@
+Features	Fake news	True news
+Avg pausality per text	2.46	3.04
+Avg emotiveness per text	0.20	0.21
+Avg uncertainty per text	4.48	23.24
+Avg non-immediacy per text	0.62	4.05

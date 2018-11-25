@@ -1,0 +1,14 @@
+Features	Fake news	True news
+Avg number of tokens	216.1	1,268.5
+Avg number of types (without punctuation and numbers)	119.2	494.1
+Avg size of words (in characters)	4.8	4.8
+Type-token ratio	0.68	0.47
+Avg number of sentences	12.7	54.8
+Avg size of sentences (in words)	15.3	21.1
+Avg number of verbs (norm. by the avg number of tokens)	14.3	13.4
+Avg number of nouns (norm. by the avg number of tokens)	24.5	24.6
+Avg number of adjectives (norm. by the avg number of tokens)	4.1	4.4
+Avg number of adverbs (norm. by the avg number of tokens)	3.7	4.0
+Avg number of pronouns (norm. by the avg number of tokens)	5.0	5.2
+Avg number of stopwords (norm. by the avg number of tokens)	31.0	32.8
+Percentage of news with spelling errors	36.0	3.0
